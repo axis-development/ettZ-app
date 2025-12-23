@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="application-fd2bb3d4" level="application" />
+    <orderEntry type="library" name="app_visitor-e7e100e6" level="application" />
+    <orderEntry type="library" name="content_box-5f80c809" level="application" />
+    <orderEntry type="library" name="visitor-8affef90" level="application" />
+    <orderEntry type="library" name="visitor-c251b678" level="application" />
+  </component>
+</module>
